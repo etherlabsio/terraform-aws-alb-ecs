@@ -1,2 +1,2 @@
 # terraform-aws-alb-ecs
-Terraform module for aws ecs service
+Terraform module for aws ecs with dynamic port mapping for alb
